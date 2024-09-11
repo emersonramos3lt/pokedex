@@ -3,10 +3,10 @@ In this project you can see several different Pokemon GIFs by typing their names
 **Next** or **Prev**, I hope you like it!
 
 # Main Features
-- HTML and CSS
-- JavaScript
-- API use
-- Responsive design
+- **HTML and CSS**
+- **JavaScript**
+- **API use**
+- **Responsive design**
 
 # Project Screenshot
 ![Screenshot](./screenshot/img1.PNG)
