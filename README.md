@@ -7,6 +7,7 @@ In this project you can see several different Pokemon GIFs by typing their names
 - **JavaScript**
 - **API use**
 - **Responsive design**
+- **Hover effect**
 
 # Project Screenshot
 ![Screenshot](./screenshot/img1.PNG)
